@@ -1,0 +1,12 @@
+bin
+obj
+*.user
+*.suo
+.vs
+.azurite
+c:azurite
+.idea/
+.vscode/
+infrastructure/terraform.exe
+infrastructure/**/.terraform
+*.received.txt
